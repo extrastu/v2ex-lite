@@ -28,6 +28,6 @@ A browser extension for V2ex, built with React, Typescript, and Tailwind CSS. Bu
 
 
 
-### download 
+### Download 
 
 Come Soon
