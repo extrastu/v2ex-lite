@@ -7,7 +7,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## V2ex lite
+## V2ex hub
 
 A browser extension for V2ex, built with React, Typescript, and Tailwind CSS. Build once, and run on multiple browsers: Google Chrome, Mozilla Firefox, Microsoft Edge, and Brave.
 
@@ -27,7 +27,18 @@ A browser extension for V2ex, built with React, Typescript, and Tailwind CSS. Bu
 ![image](https://user-images.githubusercontent.com/19451694/183244025-9950cb12-646a-4b75-b669-13b6ac22a07b.png)
 
 
-
 ### Download 
 
-Come Soon
+请使用 Chrome 浏览器访问网上应用店获取插件下载。
+
+<a href="https://chrome.google.com/webstore/detail/v2ex-lite/dhfaampmolonmghphoadmafbidbmpeep">
+  <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gtzt8n5jwmj60ds046wed02.jpg" alt="Download flomoplus on the Chrome Web Store" width="248px" height="75px" />
+</a>
+
+
+### Author
+
+
+**[@extrastu](https://web.okjike.com/u/3F7E70D2-E380-49C6-A9A5-905013A5735B)**
+
+
