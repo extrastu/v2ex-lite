@@ -17,7 +17,11 @@ A browser extension for V2ex, built with React, Typescript, and Tailwind CSS. Bu
 - ![React](https://img.shields.io/badge/-React-050B1E?&logo=React)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-050B1E?&logo=TypeScript)
 - ![Webpack](https://img.shields.io/badge/-Webpack.js-050B1E?&logo=webpack)
-- [TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-050B1E?&logo=tailwind-css)
+- ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-050B1E?&logo=tailwind-css)
+
+### Releases
+
+[![](https://img.shields.io/github/release/extrastu/v2ex-lite.svg)](https://github.com/extrastu/v2ex-lite/releases)
 
 ### Preview 
 
@@ -37,7 +41,6 @@ A browser extension for V2ex, built with React, Typescript, and Tailwind CSS. Bu
 
 
 ### Author
-
 
 **[@extrastu](https://web.okjike.com/u/3F7E70D2-E380-49C6-A9A5-905013A5735B)**
 
